@@ -130,3 +130,9 @@ dmypy.json
 
 # Ignore the virtual environment folder
 department-api/
+
+# Ignore the pycache folder
+__pycache__/
+
+# Ignore inserts.py file which contains test data of database
+inserts.py
